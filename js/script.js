@@ -37,7 +37,7 @@ setInterval(() => {
         rock.style.animation = 'rock 0.8s infinite linear'
     } else if (scoreCount > 900 && scoreCount < 1699) {
         rock.style.animation = 'rock 0.7s infinite linear'
-    } else if (scoreCount > 1400) {
+    } else if (scoreCount > 1700) {
         rock.style.animation = 'rock 0.6s infinite linear'
     };
 
